@@ -19,7 +19,8 @@ Dynamic web application and deployment
 
   The event organisers are having trouble keeping their development staff and unfortunately the lead web developer has resigned from their job    as someone ate their packed lunch. 
 
-  >They were in the middle of building a web portal for Cit-E cycling to allow functionality for users to:
+  They were in the middle of building a web portal for Cit-E cycling to allow functionality for users to:
+  
   >Register for future events
   >Login in to a restricted admin area of the website
   >Search for current participants and teams
